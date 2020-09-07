@@ -19,3 +19,5 @@ Each node performs an inner product between its inputs and weights, adds a bias,
 A neural network with two inputs and one node can separate data into classes.
 
 output = f (w1 * x1 + w2 * x2 + b), where f (x) = 1 if x >= 10, 0 if x < 10
+
+![NN Lin Sep](images/nnLinearSep.jpeg)
