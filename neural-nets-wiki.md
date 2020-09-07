@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=aircAruvnKk
 ![NN Structure](images/nnStructure.png)
 * image from https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
 
-Neural networks are made up of nodes that follow the structure shown below.
+Neural networks are made up of nodes that follow the structure shown below. Every circle in the above diagram, except those in the input layer, are nodes.
 
 ![NN Node](images/nnNode.png)
 
@@ -21,3 +21,7 @@ A neural network with two inputs and one node can separate data into classes.
 output = f (w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + b), where f (x) = 1 if x >= 10, 0 if x < 10
 
 ![NN Lin Sep](images/nnLinearSep.JPG)
+
+
+## How Neural Networks Learn
+
