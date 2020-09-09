@@ -22,7 +22,8 @@ output = f (w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + b), where 
 
 ![NN Lin Sep](images/nnLinearSep.JPG)
 
-For next time: https://www.youtube.com/watch?v=aircAruvnKk
+To learn more about the structure of neural networks watch this video from 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk
 
 ## How Neural Networks Learn
 
+To learn more about how neural networks learn watch this video from 3Blue1Brown: https://www.youtube.com/watch?v=IHZwWFHWa-w
