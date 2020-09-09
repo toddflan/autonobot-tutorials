@@ -1,6 +1,6 @@
 # Intro to Neural Networks
 
-This is a very brief intro to neural networks.
+\*a very brief intro
 
 ## General Structure
 
