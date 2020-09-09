@@ -1,8 +1,8 @@
 # Intro to Neural Networks
 
-https://www.youtube.com/watch?v=aircAruvnKk
+This is a very brief intro to neural networks.
 
-## General Structure of a Standard Neural Network
+## General Structure
 
 ![NN Structure](images/nnStructure.png)
 * image from https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
@@ -18,10 +18,11 @@ Each node performs an inner product between its inputs and weights, adds a bias,
 
 A neural network with two inputs and one node can separate data into classes.
 
-output = f (w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + b), where f (x) = 1 if x >= 10, 0 if x < 10
+output = f (w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + b), where f (a) = 1 if a >= 10 or 0 if a < 10
 
 ![NN Lin Sep](images/nnLinearSep.JPG)
 
+For next time: https://www.youtube.com/watch?v=aircAruvnKk
 
 ## How Neural Networks Learn
 
